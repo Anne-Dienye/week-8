@@ -1,11 +1,2 @@
-# week-8
-welcome from BADDIES
-
-
-  This is from baddies midwest and from Natile Nunn !!
-     Baddies ATL
-     Baddies South
-     Baddies West
-     Baddies East
-     Baddies Caribbean
+# week 8
      
